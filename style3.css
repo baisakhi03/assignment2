@@ -1,0 +1,17 @@
+table,th,td{
+  border: 2px solid black;
+}
+.a{
+    background-color: aqua;
+}
+.c{
+    background-color: brown;
+}
+.g{
+    color: darkgoldenrod;
+}
+img{
+    .g :hover{
+        color: aqua;
+    }
+}
