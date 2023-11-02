@@ -1,0 +1,17 @@
+div{
+    background-color: cadetblue;
+    position: sticky;
+    top:50px;
+}
+div :hover{
+    background-color: dimgrey;
+}
+body{
+ background-repeat: repeat-x ;
+}
+h3{
+    text-decoration: underline;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
