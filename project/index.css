@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    font-size: larger;
+    color: darkmagenta;
+}
+#search{
+position: relative;
+left: 43%;
+
+}
+
+#c{
+    text-align: right;
+    
+}
+.a{
+position: relative;
+ left: 42%;
+
+}
+.d{
+    position: relative;
+    left:42%;
+}
+.img{
+    text-align: center;
+}
+#one{
+    text-align: center;
+
+}
+
+
+/*.two{
+    height:50px ;
+    width: 200px;
+    padding-left:100px;
+    border-radius:20px;
+    font-size:20px 
+}
+*/
+
